@@ -36,3 +36,20 @@
     transform: rotate(360deg);
   }
 }
+
+.logo {
+  display: inline-block;
+  vertical-align: center;
+  width: 100px;
+  height: 25px;
+  margin-right: 15px;
+  margin-top: 15px;    /* if you want it vertically middle of the navbar. */
+}
+
+.navigation-bar ul {
+  padding: 0px;
+  margin: 0px;
+  text-align: center;
+  display:inline-block;
+  vertical-align:top;
+}

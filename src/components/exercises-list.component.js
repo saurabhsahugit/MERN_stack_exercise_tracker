@@ -5,7 +5,7 @@ export default class ExercisesList extends Component {
         return (
             <div>
                 <p>
-                    You are on the exercise list
+                    
                 </p>
             </div>
         )
